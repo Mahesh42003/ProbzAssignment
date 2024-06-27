@@ -1,0 +1,33 @@
+.padding-of-graph {
+    padding: 50px;
+}
+
+.active-styling {
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    border-color: blue;
+    width: 50px;
+    border-bottom-left-radius: 2px;
+    text-decoration: none;
+    color: green;
+} 
+
+.text-decoration-days {
+    text-decoration: none;
+}
+
+@media (max-width:799px) {
+    .bar-width {
+        width: 400px;
+    }
+}
+
+
+.export-button-styling {
+    background-color: blue;
+    height: 32px;
+    width: 100px;
+    border-width: 0px;
+    border-radius: 10px;
+    color: white;
+}

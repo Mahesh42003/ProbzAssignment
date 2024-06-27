@@ -1,0 +1,4 @@
+.spacing-between-months-days-weeks {
+    display: flex;
+    justify-content: space-evenly;
+}
